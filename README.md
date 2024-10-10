@@ -1,8 +1,12 @@
+<div style="text-align: right;">
+  <a href="https://github.com/knottx/resume/visarut-tippun.pdf" target="_blank">Download PDF</a>
+</div>
+
 # Visarut Tippun
 
 ### Mobile Developer (iOS + Flutter)
 
-knotto.vt@gmail.com • https://knottx.github.io • Bangkok, Thailand
+##### knotto.vt@gmail.com • https://knottx.github.io • Bangkok, Thailand
 
 I build mobile applications and enjoy turning ideas into impactful solutions. Currently working on exciting projects in Flutter, focusing on seamless user experiences and efficient tech solutions. [Portfolio: https://knottx.github.io](https://knottx.github.io)
 
