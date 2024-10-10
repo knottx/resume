@@ -58,7 +58,3 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 
 - Thai (Fluent)
 - English (B2, Conversational)
-
-## Interests
-- Technology
-- Fitness
