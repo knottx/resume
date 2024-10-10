@@ -15,22 +15,17 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 - Mentored interns and juniors, guiding them in writing Flutter and iOS native applications.
 - Led mobile app development projects and contributed to architecture and design decisions.
 
-##### Senior Flutter Developer | _Nov 2022 - Present_
+##### Senior Mobile Developer | _Oct 2020 - Mar 2023_
 
-- Designed and developed mobile apps using Flutter, Bloc, GetX, Dio, distributed through Google Play Store and Apple App Store.
+- Designed and developed mobile apps using Flutter, Bloc, GetX, Dio and native iOS apps with Swift distributed through Google Play Store and Apple App Store.
 - Experienced in integrating payment SDKs (Stripe).
 - Analyzed and improved existing app features to enhance performance.
 
-##### Senior iOS Developer | _Oct 2020 - Present_
+##### iOS Developer | _Oct 2019 - Sep 2020_
 
 - Designed and developed native iOS apps with Swift using RxSwift and Alamofire.
 - Integrated Omise and 2C2P payment SDKs.
 - Conducted performance analysis and improvement of existing applications.
-
-##### iOS Developer | _Oct 2019 - Sep 2020_
-
-- Developed iOS applications using Swift and RxSwift.
-- Implemented MVVM design patterns with third-party libraries like Alamofire.
 
 #### GIS Soft Co., Ltd. | Bangkok, Thailand
 
