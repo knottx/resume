@@ -31,9 +31,7 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 
 ##### System Engineer | _Apr 2014 - Dec 2014_
 
-- AIS Guide and Go team
-- Work with developers to design test cases
-- Report defects or possible issues of the software
+- Work with developers to design test cases, Report defects or possible issues of the software
 - Perform functional, non-functional, system, and user acceptance testing
 
 ### Open Source Contributions
