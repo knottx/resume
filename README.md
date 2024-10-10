@@ -1,4 +1,4 @@
-# Visarut Tippun
+## Visarut Tippun
 
 ### Mobile Developer (iOS + Flutter)
 
@@ -7,7 +7,6 @@ knotto.vt@gmail.com • [https://knottx.github.io](https://knottx.github.io) •
 I build mobile applications and enjoy turning ideas into impactful solutions. Currently working on exciting projects in Flutter, focusing on seamless user experiences and efficient tech solutions.
 
 ### Experience
----
 
 #### SMARTSOFT ASIA Co., Ltd. | Bangkok, Thailand
 
@@ -43,12 +42,11 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 - Perform functional, non-functional, system, and user acceptance testing
 
 ### Open Source Contributions
----
+
 - **Owner**: [aes256](https://github.com/knottx/aes256-dart), [SimpleHUD](https://github.com/knottx/SimpleHUD), [AppStoreManager](https://github.com/knottx/AppStoreManager), [ImagePickerManager](https://github.com/knottx/ImagePickerManager), [JWTCodable](https://github.com/knottx/JWTCodable)
 - **Public**: [get_cli](https://github.com/jonataslaw/get_cli), [image_gallery_saver](https://github.com/hui-z/image_gallery_saver), [flutter_stripe](https://github.com/flutter-stripe/flutter_stripe), [SideMenu](https://github.com/jonkykong/SideMenu), [flutter_barcode_sdk](https://github.com/yushulx/flutter_barcode_sdk), [edge_detection](https://github.com/sawankumarbundelkhandi/edge_detection), [flutter_json_view](https://github.com/Frezyx/flutter_json_view), [http_certificate_pinning](https://github.com/diefferson/http_certificate_pinning), [homebrew-cask](https://github.com/Homebrew/homebrew-cask), [app_settings](https://github.com/spencerccf/app_settings), [R.swift](https://github.com/mac-cain13/R.swift)
 
 ### Skills
----
 
 - **Languages**: Dart, Swift
 - **Frameworks**: Flutter, Bloc, GetX, Dio, RxSwift, CocoaPods, Alamofire
@@ -56,14 +54,12 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 - **Platforms**: iOS, Android, Google Play Store, Apple App Store
 
 ### Education
----
 
 #### King Mongkut's Institute of Technology Ladkrabang
 
 - Bachelor of Science, Applied Statistics • _2010 - 2013_
 
 ### Languages
----
 
 - Thai (Fluent)
 - English (B2, Conversational)
