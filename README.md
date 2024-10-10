@@ -1,5 +1,5 @@
 <div style="text-align: right;">
-  <a href="https://github.com/knottx/resume/visarut-tippun-resume.pdf" target="_blank">Download PDF</a>
+  <a href="./visarut-tippun-resume.pdf" target="_blank">Download PDF</a>
 </div>
 
 # Visarut Tippun
