@@ -2,7 +2,7 @@
 
 ### Mobile Developer (iOS + Flutter)
 
-knotto.vt@gmail.com • [github.com/knottx](https://github.com/knottx) • Bangkok, Thailand
+knotto.vt@gmail.com • https://knottx.github.io/knottx • Bangkok, Thailand
 
 I build mobile applications and enjoy turning ideas into impactful solutions. Currently working on exciting projects in Flutter, focusing on seamless user experiences and efficient tech solutions.
 
