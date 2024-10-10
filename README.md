@@ -2,7 +2,7 @@
 
 ### Mobile Developer (iOS + Flutter)
 
-knotto.vt@gmail.com | [github.com/knottx](https://github.com/knottx) | Bangkok, Thailand
+knotto.vt@gmail.com • [github.com/knottx](https://github.com/knottx) • Bangkok, Thailand
 
 I build mobile applications and enjoy turning ideas into impactful solutions. Currently working on exciting projects in Flutter, focusing on seamless user experiences and efficient tech solutions.
 
@@ -52,7 +52,7 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 
 ### King Mongkut's Institute of Technology Ladkrabang
 
-- Bachelor of Science, Applied Statistics | 2010 - 2013
+- Bachelor of Science, Applied Statistics • _2010 - 2013_
 
 ## Languages
 
