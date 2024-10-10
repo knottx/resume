@@ -2,9 +2,9 @@
 
 ### Mobile Developer (iOS + Flutter)
 
-knotto.vt@gmail.com • [https://knottx.github.io](https://knottx.github.io) • Bangkok, Thailand
+knotto.vt@gmail.com • https://knottx.github.io • Bangkok, Thailand
 
-I build mobile applications and enjoy turning ideas into impactful solutions. Currently working on exciting projects in Flutter, focusing on seamless user experiences and efficient tech solutions.
+I build mobile applications and enjoy turning ideas into impactful solutions. Currently working on exciting projects in Flutter, focusing on seamless user experiences and efficient tech solutions. [Portfolio: https://knottx.github.io](https://knottx.github.io)
 
 ### Experience
 
@@ -17,13 +17,13 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 
 ##### Senior Mobile Developer | _Oct 2020 - Mar 2023_
 
-- Designed and developed mobile apps using Flutter, Bloc, GetX, Dio and native iOS apps with Swift distributed through Google Play Store and Apple App Store.
+- Designed and developed iOS & Android apps using Flutter and native iOS apps with Swift.
 - Experienced in integrating payment SDKs (Stripe).
 - Analyzed and improved existing app features to enhance performance.
 
 ##### iOS Developer | _Oct 2019 - Sep 2020_
 
-- Designed and developed native iOS apps with Swift using RxSwift and Alamofire.
+- Designed and developed native iOS apps with Swift using RxSwift.
 - Integrated Omise and 2C2P payment SDKs.
 - Conducted performance analysis and improvement of existing applications.
 
@@ -41,10 +41,8 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 
 ### Skills
 
-- **Languages**: Dart, Swift
-- **Frameworks**: Flutter, Bloc, GetX, Dio, RxSwift, CocoaPods, Alamofire
-- **Tools**: Git, Firebase, Figma, Slack, Trello, VSCode, Xcode, Android Studio
-- **Platforms**: iOS, Android, Google Play Store, Apple App Store
+- Dart, Swift, Flutter, Bloc, GetX, Dio, RxSwift, CocoaPods, Alamofire
+- Git, Firebase, Figma, Slack, Trello, VSCode, Xcode, Android Studio
 
 ### Education
 
