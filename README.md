@@ -1,6 +1,3 @@
-<div style="text-align: right;">
-  <a href="./visarut-tippun-resume.pdf" target="_blank">Download PDF</a>
-</div>
 
 # Visarut Tippun
 
