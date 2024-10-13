@@ -46,7 +46,7 @@ I build mobile applications and enjoy turning ideas into impactful solutions. Cu
 ## Skills
 
 - Dart, Swift, Flutter, Bloc, GetX, Dio, RxSwift, CocoaPods, Alamofire
-- Git, Firebase, Figma, Slack, Trello, VSCode, Xcode, Android Studio
+- Git, Firebase, Figma, Slack, Trello, Postman, VSCode, Xcode, Android Studio
 
 ## Education
 
